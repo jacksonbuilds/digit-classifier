@@ -1,0 +1,4 @@
+tensorflow>=2.10.0,<3.0.0
+numpy>=1.21,<2.0
+matplotlib>=3.5,<4.0
+jupyter>=1.0,<2.0  # Optional, for EDA notebook
