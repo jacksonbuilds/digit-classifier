@@ -1,6 +1,6 @@
 # 🧠 Digit Classifier with TensorFlow
 
-A simple, clean machine learning project that trains a neural network to classify handwritten digits (0–9) using the MNIST dataset. Built with TensorFlow and designed to be lightweight and easy to run—even on a MacBook Air.
+A simple, clean machine learning project that trains a neural network to classify handwritten digits (0–9) using the MNIST dataset. Built with TensorFlow and designed to be lightweight to run.
 
 ---
 
