@@ -1,10 +1,10 @@
-# 🧠 Digit Classifier with TensorFlow
+# Digit Classifier with TensorFlow
 
 A simple, clean machine learning project that trains a neural network to classify handwritten digits (0–9) using the MNIST dataset. Built with TensorFlow and designed to be lightweight to run.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates a basic deep learning workflow using TensorFlow and Keras. It includes:
 
@@ -16,7 +16,7 @@ This project demonstrates a basic deep learning workflow using TensorFlow and Ke
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python 3.9+
 - [TensorFlow](https://www.tensorflow.org/) (Keras API)
@@ -26,7 +26,7 @@ This project demonstrates a basic deep learning workflow using TensorFlow and Ke
 
 ---
 
-## 🖼 Sample Output
+## Sample Output
 
 Here’s a sample MNIST digit used during training:
 
@@ -34,7 +34,7 @@ Here’s a sample MNIST digit used during training:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the Repository
 
@@ -64,7 +64,7 @@ jupyter notebook notebooks/EDA.ipynb
 - Accuracy: ~97% on MNIST test set after 5 epochs
 - Model saved to model/model.h5
 
-### ✅ Best Practices Followed
+### Best Practices Followed
 
 - Clean project structure
 - Reusable data loading module
