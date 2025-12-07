@@ -61,21 +61,16 @@ jupyter notebook notebooks/EDA.ipynb
 
 ### Results
 
-    Accuracy: ~97% on MNIST test set after 5 epochs
-
-    Model saved to model/model.h5
+- Accuracy: ~97% on MNIST test set after 5 epochs
+- Model saved to model/model.h5
 
 ### ✅ Best Practices Followed
 
-    Clean project structure
-
-    Reusable data loading module
-
-    Virtual environment isolation
-
-    Lightweight & laptop-friendly
-
-    Documented and modular code
+- Clean project structure
+- Reusable data loading module
+- Virtual environment isolation
+- Lightweight & laptop-friendly
+- Documented and modular code
 
 ### License
 This project is licensed under the MIT License. See LICENSE for details.
